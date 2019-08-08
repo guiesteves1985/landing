@@ -1,0 +1,36 @@
+.footer {
+  background-color: #011646;
+  height: 200px;
+  margin-top: 95px;
+  text-align: center;
+}
+
+.footer h4 {
+  color: white;
+  padding-top: 55px;
+}
+
+.ul {
+list-style: inline;
+}
+
+.list_contact {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list_contact li {
+  display: inline;
+  padding: 20px;
+}
+
+.list_contact i {
+  font-size: 30px;
+  color: rgb(180,180,180);
+  transition: 0.6s;
+}
+
+.list_contact i:hover {
+  font-size: 30px;
+  color: white;
+}

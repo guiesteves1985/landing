@@ -1,0 +1,23 @@
+/* Your button CSS file */
+.btn-book {
+  text-decoration: none;
+  width: 150px;
+  height: 35px;
+  color: white;
+  font-family: sans-serif;
+  border: 1px solid white;
+  padding: 18px 28px;
+  border-radius: 4px;
+  align-items: center;
+}
+
+
+.btn-book:hover {
+  color: black;
+  background-color: white;
+  border: 1px solid white;
+  transition: 0.4s;
+}
+
+
+
